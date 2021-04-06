@@ -7,12 +7,10 @@ Can be installed using `pip install` **or** `conda install` for *Anaconda enviro
 
 - Python 3.7 
 - Libraries 
-  - numpy (1.17.0)
-  - pandas (0.24.2)
-  - keras (2.3.1)
+  - pytorch (1.2.0)
   - tensorflow (2.0.0)
-  - Selenium (3.141.0)
-  - OpenCV (4.5.1.48)
+  - gensim (3.8.3)
+  - tqdm (4.56.0)
     
 ### 2. Architecture
 
